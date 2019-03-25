@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="smith-bi1.ischool.uw.edu.yufeiliDW"
+  DTS:DTSID="{715C7512-73E4-4B99-A398-C2A5E1EF4177}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Data Source=smith-bi1.ischool.uw.edu;Initial Catalog=yufeiliDW;Provider=SQLOLEDB.1;Integrated Security=SSPI;Application Name=SSIS-IMT577-Lab1-{715C7512-73E4-4B99-A398-C2A5E1EF4177}smith-bi1.ischool.uw.edu.yufeiliDW;Auto Translate=False;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
