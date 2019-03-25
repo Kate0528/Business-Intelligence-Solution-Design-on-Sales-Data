@@ -44,7 +44,7 @@ The core metircs (measures) we used in our design are as follows.
 
 Please note that the price of the product changes depending on who it was sold to (resellers vs non-resellers).
 
-The source system ERD is shown as below. [Link to Source System ERD](SourceSystem ERD.vsdx)
+The source system ERD is shown as below. [Link to Source System ERD](SourceSystem ERD.vsd)
 
 ![jpg](SourceSystem ERD.jpg)
 
